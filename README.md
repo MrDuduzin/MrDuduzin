@@ -1,5 +1,13 @@
-### Hi there 👋
+Olá, me chamo Eduardo!
 
+- 📍 Sou de Indaiatuba-SP
+- 👨‍💻 Atualmente estudando Python 🐍
+- 💬 Trabalhando para deixar a experiência tecnológica muito mais agradável 👽
+- 💾 Pojetos voltados para a resolução de problemas reais
+- 📸 Instagram: @edu.ml
+- 📞 Whatsapp: (19) 97113-7012
+- 🎸 Guitarrista nas horas vagas
+- 😉 Fique à vontade para olhar e conhecer meus projetos
 <!--
 **MrDuduzin/MrDuduzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
