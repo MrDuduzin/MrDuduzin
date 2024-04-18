@@ -3,7 +3,7 @@ Olá, me chamo Eduardo!
 - 📍 Sou de Indaiatuba-SP
 - 👨‍💻 Atualmente estudando Python 🐍
 - 💬 Trabalhando para deixar a experiência tecnológica muito mais agradável 👽
-- 💾 Pojetos voltados para a resolução de problemas reais
+- 💾 Pojetos voltados para a resolução de problemas reais!
 - 📸 Instagram: @edu.ml
 - 📞 Whatsapp: (19) 97113-7012
 - 🎸 Guitarrista nas horas vagas
